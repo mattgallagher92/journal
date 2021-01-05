@@ -20,3 +20,23 @@ After work:
 Across the day:
 
 * No more than 3000 net calories, according to MyFitnessPal
+
+## Summary
+
+| Date | Out of bed before using phone | Morning mindfulness | Exercise | Programming/learning | Stretch | Evening mindfulness | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
+| ---- | ----------------------------- | ------------------- | -------- | -------------------- | ------- | ------------------- | --------------- | ------- | ---------------- | --------------- |
+| 2020-01-04 | ✔ | | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
+
+## Details
+
+### 2020-01-04
+
+* Mindfulness: none
+* Exercise: [PE with Joe, Friday 29th May](https://www.youtube.com/watch?v=gVN5Lg-q5zA&list=PLyCLoPd4VxBsXs1WmPcektsQyFbXTf9FO&index=46)
+* Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.50-9.20
+* Stretch: none
+* Mindfulness: Headspace mini - unwind (1 minute)
+* In bed: 10.24
+* Reading: My Sister's Keeper, 3 pages
+* Lights out: 10.50
+* Net calories: 2494
