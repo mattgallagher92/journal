@@ -23,7 +23,7 @@ Across the day:
 
 ## Summary
 
-| Date | Out of bed before using phone | Morning mindfulness | Exercise | Programming/learning | Stretch | Evening mindfulness | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
+| Date | Out of bed before using phone | Meditate (AM) | Exercise | Programming or learning | Stretch | Meditate (PM) | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
 | ---- | ----------------------------- | ------------------- | -------- | -------------------- | ------- | ------------------- | --------------- | ------- | ---------------- | --------------- |
 | 2020-01-04 | ✔ | | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
 
