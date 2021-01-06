@@ -26,17 +26,30 @@ Across the day:
 | Date | Out of bed before using phone | Meditate (AM) | Exercise | Programming or learning | Stretch | Meditate (PM) | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
 | ---- | ----------------------------- | ------------------- | -------- | -------------------- | ------- | ------------------- | --------------- | ------- | ---------------- | --------------- |
 | 2020-01-04 | ✔ | | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
+| 2020-01-05 | ✔ | ✔ | ✔ | | ✔ | ✔ | | ✔ | ✔ | ✔ |
 
 ## Details
 
 ### 2020-01-04
 
-* Mindfulness: none
+* Morning meditation: none
 * Exercise: [PE with Joe, Friday 29th May](https://www.youtube.com/watch?v=gVN5Lg-q5zA&list=PLyCLoPd4VxBsXs1WmPcektsQyFbXTf9FO&index=46)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.50-9.20
 * Stretch: none
-* Mindfulness: Headspace mini - unwind (1 minute)
+* Evening meditation: Headspace mini - unwind (1 minute)
 * In bed: 10.24
 * Reading: My Sister's Keeper, 3 pages
 * Lights out: 10.50
 * Net calories: 2494
+
+### 2020-01-05
+
+* Morning meditation: [5 min Guided Morning Meditation with Positive Affirmations](https://www.youtube.com/watch?v=ZizK2yBnncM)
+* Exercise: [Wake up with Joe, day 1](https://www.youtube.com/watch?v=I9sciRMnE1c)
+* Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 9.00-9.20
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Mindfulness: Headspace mini - unwind (1 minute)
+* In bed: 10.24
+* Reading: My Sister's Keeper, 1 page
+* Lights out: 10.40
+* Net calories: 2515
