@@ -31,6 +31,7 @@ Across the day:
 | 2020-01-07 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-08 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
 | 2020-01-09 | ✔ | ✔ | | | | ✔ | | | | ✔ |
+| 2020-01-10 | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -105,3 +106,15 @@ Across the day:
 * Reading: none
 * Lights out: 11.25
 * Net calories: 2614
+
+### 2020-01-10
+
+* Morning meditation: none
+* Exercise: none
+* Programming: none
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Mindfulness: unwind, 1 min
+* In bed: 10.11
+* Reading: My Sister's Keeper, 8 pages
+* Lights out: 10.40
+* Net calories: 2685
