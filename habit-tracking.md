@@ -30,6 +30,7 @@ Across the day:
 | 2020-01-06 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-07 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-08 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
+| 2020-01-09 | ✔ | ✔ | | | | ✔ | | | | ✔ |
 
 ## Details
 
@@ -92,3 +93,15 @@ Across the day:
 * Reading: My Sister's Keeper, 4 pages
 * Lights out: 10.35
 * Net calories: 3377
+
+### 2020-01-09
+
+* Morning meditation: balance (today's meditation), 5 mins
+* Exercise: [15 min morning yoga](https://www.youtube.com/watch?v=yTggTF7OkQ4) - light intensity.
+* Programming: none
+* Stretch: none
+* Mindfulness: unwind, 1 min
+* In bed: 10.30
+* Reading: none
+* Lights out: 11.25
+* Net calories: 2614
