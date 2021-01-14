@@ -34,6 +34,7 @@ Across the day:
 | 2020-01-10 | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2020-01-13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ |
 
 ## Details
 
@@ -144,3 +145,15 @@ Across the day:
 * Reading: My Sister's Keeper, 7 pages
 * Lights out: 10.30
 * Net calories: 2539
+
+### 2020-01-13
+
+* Morning meditation: the thinking mind (today's meditation), 10 mins
+* Exercise: [Wake up with Joe, day 7](https://www.youtube.com/watch?v=hQT3RIB0VR4)
+* Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.50-9.25
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Mindfulness: unwind, 1 mins
+* In bed: 10.30
+* Reading: My Sister's Keeper, 8 pages
+* Lights out: 10.47
+* Net calories: 2402
