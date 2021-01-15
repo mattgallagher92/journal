@@ -170,3 +170,15 @@ Across the day:
 * Reading: My Sister's Keeper, 5 pages
 * Lights out: 10.40
 * Net calories: 2478
+
+### Template
+
+* Morning meditation:
+* Exercise:
+* Programming:
+* Stretch:
+* Mindfulness:
+* In bed:
+* Reading:
+* Lights out:
+* Net calories:
