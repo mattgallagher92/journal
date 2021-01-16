@@ -58,7 +58,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 1](https://www.youtube.com/watch?v=I9sciRMnE1c)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 9.00-9.20
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: Headspace mini - unwind (1 minute)
+* Evening meditation: Headspace mini - unwind (1 minute)
 * In bed: 10.24
 * Reading: My Sister's Keeper, 1 page
 * Lights out: 10.40
@@ -70,7 +70,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 2](https://www.youtube.com/watch?v=23Eya6X_3rs)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.50-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: Headspace mini - unwind (1 minute)
+* Evening meditation: Headspace mini - unwind (1 minute)
 * In bed: 10.15
 * Reading: My Sister's Keeper, 1 page
 * Lights out: 10.50
@@ -82,7 +82,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 3](https://www.youtube.com/watch?v=-awsIZBtwOs)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.55-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: unwind, 2 mins
+* Evening meditation: unwind, 2 mins
 * In bed: 10.10
 * Reading: My Sister's Keeper, 4 pages
 * Lights out: 10.45
@@ -94,7 +94,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 4](https://www.youtube.com/watch?v=xZV1J8VLcsQ)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.50-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: unwind, 3 mins
+* Evening meditation: unwind, 3 mins
 * In bed: 10.12
 * Reading: My Sister's Keeper, 4 pages
 * Lights out: 10.35
@@ -106,7 +106,7 @@ Across the day:
 * Exercise: [15 min morning yoga](https://www.youtube.com/watch?v=yTggTF7OkQ4) - light intensity.
 * Programming: none
 * Stretch: none
-* Mindfulness: unwind, 1 min
+* Evening meditation: unwind, 1 min
 * In bed: 10.30
 * Reading: none
 * Lights out: 11.25
@@ -118,7 +118,7 @@ Across the day:
 * Exercise: none
 * Programming: none
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: unwind, 1 min
+* Evening meditation: unwind, 1 min
 * In bed: 10.11
 * Reading: My Sister's Keeper, 8 pages
 * Lights out: 10.40
@@ -130,7 +130,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 5](https://www.youtube.com/watch?v=ZypH3TwWDew)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.55-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: unwind, 1 min
+* Evening meditation: unwind, 1 min
 * In bed: 10.15
 * Reading: My Sister's Keeper, 2 pages
 * Lights out: 11
@@ -142,7 +142,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 6](https://www.youtube.com/watch?v=MGR-1qheQdg)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.55-9.25
 * Stretch: assorted stretches
-* Mindfulness: unwind, 2 mins
+* Evening meditation: unwind, 2 mins
 * In bed: 10.14
 * Reading: My Sister's Keeper, 7 pages
 * Lights out: 10.30
@@ -154,7 +154,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 7](https://www.youtube.com/watch?v=hQT3RIB0VR4)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.50-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: unwind, 1 min
+* Evening meditation: unwind, 1 min
 * In bed: 10.30
 * Reading: My Sister's Keeper, 8 pages
 * Lights out: 10.47
@@ -166,7 +166,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 8](https://www.youtube.com/watch?v=8ykDQBHSaaQ)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 10.15-10.45 (had a staff talk earlier than usual start time - attended that then took a break for hobby programming)
 * Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
-* Mindfulness: unwind, 2 mins
+* Evening meditation: unwind, 2 mins
 * In bed: 10.12
 * Reading: My Sister's Keeper, 5 pages
 * Lights out: 10.40
@@ -178,7 +178,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 9](https://www.youtube.com/watch?v=c2MfG76AG48)
 * Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.40-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: unwind, 1 min
+* Evening meditation: unwind, 1 min
 * In bed: 10.14
 * Reading: My Sister's Keeper, 7 pages
 * Lights out: 10.34
@@ -190,7 +190,7 @@ Across the day:
 * Exercise:
 * Programming:
 * Stretch:
-* Mindfulness:
+* Evening meditation:
 * In bed:
 * Reading:
 * Lights out:
