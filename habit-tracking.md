@@ -36,6 +36,7 @@ Across the day:
 | 2020-01-12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ |
 | 2020-01-14 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2020-01-15 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -153,7 +154,7 @@ Across the day:
 * Exercise: [Wake up with Joe, day 7](https://www.youtube.com/watch?v=hQT3RIB0VR4)
 * Programming: worked on [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.50-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
-* Mindfulness: unwind, 1 mins
+* Mindfulness: unwind, 1 min
 * In bed: 10.30
 * Reading: My Sister's Keeper, 8 pages
 * Lights out: 10.47
@@ -170,6 +171,18 @@ Across the day:
 * Reading: My Sister's Keeper, 5 pages
 * Lights out: 10.40
 * Net calories: 2478
+
+### 2020-01-15
+
+* Morning meditation: today's meditation, 10 mins
+* Exercise: [Wake up with Joe, day 9](https://www.youtube.com/watch?v=c2MfG76AG48)
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences) 8.40-9.25
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Mindfulness: unwind, 1 min
+* In bed: 10.14
+* Reading: My Sister's Keeper, 7 pages
+* Lights out: 10.34
+* Net calories: 2487
 
 ### Template
 
