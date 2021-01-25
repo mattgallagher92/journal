@@ -42,6 +42,7 @@ Across the day:
 | 2020-01-18 | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-19 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2020-01-20 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
+| 2020-01-21 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -248,6 +249,18 @@ Across the day:
 * Reading: My Sister's Keeper, 1 page
 * Lights out: 11
 * Net calories: 2344
+
+### 2020-01-21
+
+* Morning meditation: semi-guided, 5 mins
+* Exercise: [15 Minute Full Body Fat Burner](https://www.youtube.com/watch?v=ibGsVS3LChg)
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 8.50-9.20
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
+* Evening meditation: unwind, 2 mins
+* In bed: 10.14
+* Reading: My Sister's Keeper, 3 pages
+* Lights out: 10.32
+* Net calories: 2252
 
 ### Template
 
