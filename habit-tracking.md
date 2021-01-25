@@ -25,31 +25,31 @@ Across the day:
 
 | Date | Out of bed before using phone | Meditate (AM) | Exercise | Programming or learning | Stretch | Meditate (PM) | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
 | ---- | ----------------------------- | ------------------- | -------- | -------------------- | ------- | ------------------- | --------------- | ------- | ---------------- | --------------- |
-| 2020-01-04 | ✔ | | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
-| 2020-01-05 | ✔ | ✔ | ✔ | | ✔ | ✔ | | ✔ | ✔ | ✔ |
-| 2020-01-06 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-07 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-08 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
-| 2020-01-09 | ✔ | ✔ | | | | ✔ | | | | ✔ |
-| 2020-01-10 | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ |
-| 2020-01-14 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-15 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-16 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-17 | ✔ | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-18 | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-19 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-20 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
-| 2020-01-21 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| 2020-01-22 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-04 | ✔ | | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
+| 2021-01-05 | ✔ | ✔ | ✔ | | ✔ | ✔ | | ✔ | ✔ | ✔ |
+| 2021-01-06 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-07 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-08 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
+| 2021-01-09 | ✔ | ✔ | | | | ✔ | | | | ✔ |
+| 2021-01-10 | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ |
+| 2021-01-14 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-15 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-16 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-17 | ✔ | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-18 | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-19 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-20 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
+| 2021-01-21 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-22 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-01-23 | ✔ | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-01-24 | ✔ | | | | | ✔ | ✔ | ✔ | ✔ | |
 
 ## Details
 
-### 2020-01-04
+### 2021-01-04
 
 * Morning meditation: none
 * Exercise: [PE with Joe, Friday 29th May](https://www.youtube.com/watch?v=gVN5Lg-q5zA&list=PLyCLoPd4VxBsXs1WmPcektsQyFbXTf9FO&index=46)
@@ -61,7 +61,7 @@ Across the day:
 * Lights out: 10.50
 * Net calories: 2494
 
-### 2020-01-05
+### 2021-01-05
 
 * Morning meditation: [5 min Guided Morning Meditation with Positive Affirmations](https://www.youtube.com/watch?v=ZizK2yBnncM)
 * Exercise: [Wake up with Joe, day 1](https://www.youtube.com/watch?v=I9sciRMnE1c)
@@ -73,7 +73,7 @@ Across the day:
 * Lights out: 10.40
 * Net calories: 2515
 
-### 2020-01-06
+### 2021-01-06
 
 * Morning meditation: today's meditation (Headspace) - neutral thinking
 * Exercise: [Wake up with Joe, day 2](https://www.youtube.com/watch?v=23Eya6X_3rs)
@@ -85,7 +85,7 @@ Across the day:
 * Lights out: 10.50
 * Net calories: 2347
 
-### 2020-01-07
+### 2021-01-07
 
 * Morning meditation: guided, 5 mins
 * Exercise: [Wake up with Joe, day 3](https://www.youtube.com/watch?v=-awsIZBtwOs)
@@ -97,7 +97,7 @@ Across the day:
 * Lights out: 10.45
 * Net calories: 2725
 
-### 2020-01-08
+### 2021-01-08
 
 * Morning meditation: guided, 5 mins
 * Exercise: [Wake up with Joe, day 4](https://www.youtube.com/watch?v=xZV1J8VLcsQ)
@@ -109,7 +109,7 @@ Across the day:
 * Lights out: 10.35
 * Net calories: 3377
 
-### 2020-01-09
+### 2021-01-09
 
 * Morning meditation: balance (today's meditation), 5 mins
 * Exercise: [15 min morning yoga](https://www.youtube.com/watch?v=yTggTF7OkQ4) - light intensity.
@@ -121,7 +121,7 @@ Across the day:
 * Lights out: 11.25
 * Net calories: 2614
 
-### 2020-01-10
+### 2021-01-10
 
 * Morning meditation: none
 * Exercise: none
@@ -133,7 +133,7 @@ Across the day:
 * Lights out: 10.40
 * Net calories: 2685
 
-### 2020-01-11
+### 2021-01-11
 
 * Morning meditation: signposts (today's meditation), 10 mins
 * Exercise: [Wake up with Joe, day 5](https://www.youtube.com/watch?v=ZypH3TwWDew)
@@ -145,7 +145,7 @@ Across the day:
 * Lights out: 11
 * Net calories: 2425
 
-### 2020-01-12
+### 2021-01-12
 
 * Morning meditation: kindness takes practice (today's meditation), 10 mins
 * Exercise: [Wake up with Joe, day 6](https://www.youtube.com/watch?v=MGR-1qheQdg)
@@ -157,7 +157,7 @@ Across the day:
 * Lights out: 10.30
 * Net calories: 2539
 
-### 2020-01-13
+### 2021-01-13
 
 * Morning meditation: the thinking mind (today's meditation), 10 mins
 * Exercise: [Wake up with Joe, day 7](https://www.youtube.com/watch?v=hQT3RIB0VR4)
@@ -169,7 +169,7 @@ Across the day:
 * Lights out: 10.47
 * Net calories: 2402
 
-### 2020-01-14
+### 2021-01-14
 
 * Morning meditation: letting go of ego (today's meditation), 10 mins
 * Exercise: [Wake up with Joe, day 8](https://www.youtube.com/watch?v=8ykDQBHSaaQ)
@@ -181,7 +181,7 @@ Across the day:
 * Lights out: 10.40
 * Net calories: 2478
 
-### 2020-01-15
+### 2021-01-15
 
 * Morning meditation: today's meditation, 10 mins
 * Exercise: [Wake up with Joe, day 9](https://www.youtube.com/watch?v=c2MfG76AG48)
@@ -193,7 +193,7 @@ Across the day:
 * Lights out: 10.34
 * Net calories: 2487
 
-### 2020-01-16
+### 2021-01-16
 
 * Morning meditation: guided, 15 mins
 * Exercise: [PE with Joe, 01 Jun](https://www.youtube.com/watch?v=zKhGfdSvG3s)
@@ -205,7 +205,7 @@ Across the day:
 * Lights out: 11
 * Net calories: 2533
 
-### 2020-01-17
+### 2021-01-17
 
 * Morning meditation: good and bad (today's meditation), 5 mins
 * Exercise: -
@@ -217,7 +217,7 @@ Across the day:
 * Lights out: 10.44
 * Net calories: 2525
 
-### 2020-01-18
+### 2021-01-18
 
 * Morning meditation: one moment at a time (today's meditation), 10 mins
 * Exercise: [Wake up with Joe, day 10](https://www.youtube.com/watch?v=XMi9OTrNzmE)
@@ -229,7 +229,7 @@ Across the day:
 * Lights out: 10.40
 * Net calories: 2924
 
-### 2020-01-19
+### 2021-01-19
 
 * Morning meditation: guided, 5 mins
 * Exercise: [Wake up with Joe, day 11](https://www.youtube.com/watch?v=deioV8zJnFo)
@@ -241,7 +241,7 @@ Across the day:
 * Lights out: 10.35
 * Net calories: 2862
 
-### 2020-01-20
+### 2021-01-20
 
 * Morning meditation: semi-guided, 5 mins
 * Exercise: [Wake up with Joe, day 12](https://www.youtube.com/watch?v=mZs-mtDmEt8)
@@ -253,7 +253,7 @@ Across the day:
 * Lights out: 11
 * Net calories: 2344
 
-### 2020-01-21
+### 2021-01-21
 
 * Morning meditation: semi-guided, 5 mins
 * Exercise: [15 Minute Full Body Fat Burner](https://www.youtube.com/watch?v=ibGsVS3LChg)
@@ -265,7 +265,7 @@ Across the day:
 * Lights out: 10.32
 * Net calories: 2252
 
-### 2020-01-22
+### 2021-01-22
 
 * Morning meditation: semi-guided, 5 mins
 * Exercise: [2021 Kickstarter Workout](https://www.youtube.com/watch?v=4dPXtS1aUII)
