@@ -50,6 +50,7 @@ Across the day:
 | 2021-01-26 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-01-27 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-01-28 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-29 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -352,6 +353,18 @@ Across the day:
 * Reading: My Sister's Keeper, 7 pages
 * Lights out: 10.39
 * Net calories: 2074
+
+### 2021-01-29
+
+* Morning meditation: basics 1, 5 mins
+* Exercise: [Beginner workout 5](https://www.youtube.com/watch?v=myiJq74fPY8)
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 8.55-9.25
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
+* Evening meditation: sleeping, 3 mins
+* In bed: 10.11
+* Reading: My Sister's Keeper, 15 pages
+* Lights out: 10.38
+* Net calories: 2999
 
 ### Template
 
