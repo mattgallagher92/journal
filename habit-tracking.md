@@ -52,6 +52,7 @@ Across the day:
 | 2021-01-28 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-01-29 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-01-30 | ✔ | ✔ | | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-01-31 | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -378,6 +379,18 @@ Across the day:
 * Reading: My Sister's Keeper, 6 pages
 * Lights out: 10.22
 * Net calories: 2402
+
+### 2021-01-31
+
+* Morning meditation: -
+* Exercise: -
+* Programming: -
+* Stretch: [Ace fitness "un-desk" stretches](https://www.acefitness.org/education-and-resources/lifestyle/blog/6554/5-stretches-to-un-desk-your-body/)
+* Evening meditation: goodnight, 1 min
+* In bed: 10.15
+* Reading: My Sister's Keeper, 5 pages
+* Lights out: 10.32
+* Net calories: 2607
 
 ### Template
 
