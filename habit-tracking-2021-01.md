@@ -1,4 +1,4 @@
-# Habit tracking
+# Habit tracking - 2021-01
 
 ## Current habits
 
@@ -24,7 +24,7 @@ Across the day:
 ## Summary
 
 | Date | Out of bed before using phone | Meditate (AM) | Exercise | Programming or learning | Stretch | Meditate (PM) | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
-| ---- | ----------------------------- | ------------------- | -------- | -------------------- | ------- | ------------------- | --------------- | ------- | ---------------- | --------------- |
+| ---- | ----------------------------- | ------------- | -------- | ----------------------- | ------- | --------------| --------------- | ------- | ---------------- | --------------- |
 | 2021-01-04 | ✔ | | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
 | 2021-01-05 | ✔ | ✔ | ✔ | | ✔ | ✔ | | ✔ | ✔ | ✔ |
 | 2021-01-06 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -392,14 +392,61 @@ Across the day:
 * Lights out: 10.32
 * Net calories: 2607
 
-### Template
+## Thoughts
 
-* Morning meditation:
-* Exercise:
-* Programming:
-* Stretch:
-* Evening meditation:
-* In bed:
-* Reading:
-* Lights out:
-* Net calories:
+I like getting most of my time-intensive habits done before starting work. Even though this means finishing work
+relatively late (5.45) due to the late start (9.30), I really appreciate that my evening is almost exclusively for
+relaxing - I don't have to think about exercise or washing as they're already done. I also have less dead time, which I
+used to have around exercise and before cooking.
+
+I have been on a walk every day (usually lunchtime). I could track this, but I don't see there being a huge benefit as
+I'm already doing it, so don't need more motivation. In a similar vein, I've been practising time-restricted eating for
+a while, but I don't want to track this. Perhaps I'll make a note of untracked habits. I could stop tracking not using
+my phone in the morning - I seem to be doing fine on this and I don't think tracking it is much of a motivating factor.
+
+Some things I'd like to change:
+
+* Make my target for programming/learning less, which would be beneficial for two reasons: it allows me to exercise and
+  meditate for longer should I want to (I do), and  I could more easily motivate myself to program on weekends.
+* Either make my exercise target less intense or have a different target for weekdays and weekends. Moderate+ intensity
+  exercise every day is a bit much for me at the moment, and I don't think I want to do that anyway.
+
+### Routine changes for Feb
+
+* 15+ mins of programming/learning each day.
+* 15+ mins moderate+ intensity exercise on weekdays.
+* 10+ mins light+ intensity exercise on weekend days.
+
+### Rough weekday morning routine from Feb
+
+#### Not washing hair
+
+| Start Time | Activity |
+| ---------- | -------- |
+| 7 | Wake up |
+| 7.05 | Read news |
+| 7.30 | Exercise and stretch |
+| 8.10 | Meditate |
+| 8.30 | Wash |
+| 8.45 | Towel off |
+| 8.50 | Get dressed |
+| 8.55 | Make tea |
+| 9 | Program |
+| 9.20 | Get ready for work |
+| 9.30 | Start work |
+
+#### Washing hair
+
+| Start Time | Activity |
+| ---------- | -------- |
+| 7 | Wake up |
+| 7.05 | Read news |
+| 7.30 | Exercise and stretch |
+| 8 | Meditate |
+| 8.15 | Wash |
+| 8.40 | Towel off, dry hair |
+| 8.50 | Get dressed |
+| 8.55 | Make tea |
+| 9 | Program |
+| 9.20 | Get ready for work |
+| 9.30 | Start work |
