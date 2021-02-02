@@ -48,8 +48,21 @@ Across the day:
 
 | Date | Exercise | Meditate (AM) | Programming or learning | Stretch | Meditate (PM) | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
 | ---- | -------- | --------------| ----------------------- | ------- | --------------| --------------- | ------- | ---------------- | --------------- |
+| 2021-02-01 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
+
+### 2021-02-01
+
+* Exercise: [Beginner workout 6](https://www.youtube.com/watch?v=IV0rwqHxMDs)
+* Morning meditation: Embracing the unknown (today's meditation), 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9-9.25
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
+* Evening meditation: noting, 3 mins
+* In bed: 10.14
+* Reading: My Sister's Keeper, 8 pages
+* Lights out: 10.35
+* Net calories: 2478
 
 ### Template
 
