@@ -49,6 +49,7 @@ Across the day:
 | Date | Exercise | Meditate (AM) | Programming or learning | Stretch | Meditate (PM) | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
 | ---- | -------- | --------------| ----------------------- | ------- | --------------| --------------- | ------- | ---------------- | --------------- |
 | 2021-02-01 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-02-02 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -63,6 +64,18 @@ Across the day:
 * Reading: My Sister's Keeper, 8 pages
 * Lights out: 10.35
 * Net calories: 2478
+
+### 2021-02-02
+
+* Exercise: [Beginner workout 7](https://www.youtube.com/watch?v=LDo05xQeKl0)
+* Morning meditation: Moments and opportunities (today's meditation), 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 8.50-9.20
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Evening meditation: goodnight, 1 min
+* In bed: 10.12
+* Reading: My Sister's Keeper, 5 pages
+* Lights out: 10.48
+* Net calories: 2772
 
 ### Template
 
