@@ -15,7 +15,7 @@ Morning:
 * Mindfulness practice for at least 5 minutes
 * 15+ mins moderate+ intensity exercise on weekdays
 * 10+ mins light+ intensity exercise on weekend days
-* Personal programming/learning for 15+ minutes
+* Personal programming or software learning for 15+ minutes
 
 After work:
 
@@ -51,6 +51,7 @@ Across the day:
 | 2021-02-01 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-02 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-03 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
+| 2021-02-04 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -89,6 +90,18 @@ Across the day:
 * Reading: My Sister's Keeper, 10 pages
 * Lights out: 10.45
 * Net calories: 2421
+
+### 2021-02-04
+
+* Exercise: [7 days of sweat, day 2](https://www.youtube.com/watch?v=LZlHNVNcxF8)
+* Morning meditation: basics 1 session 2, 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 8.55-9.20
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
+* Evening meditation: deep breathing, 2 mins
+* In bed: 10.10
+* Reading: My Sister's Keeper, 3 pages
+* Lights out: 10.55
+* Net calories: 2074
 
 ### Template
 
