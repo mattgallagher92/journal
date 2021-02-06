@@ -52,6 +52,7 @@ Across the day:
 | 2021-02-02 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-03 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
 | 2021-02-04 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-02-05 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -102,6 +103,27 @@ Across the day:
 * Reading: My Sister's Keeper, 3 pages
 * Lights out: 10.55
 * Net calories: 2074
+
+### 2021-02-05
+
+Annual leave today, hence the learning/programming until later than usual.
+
+Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb910147-d567-4e00-8e7b-626674a38743).
+
+* Exercise: [7 days of sweat, day 3](https://www.youtube.com/watch?v=IXTp_Ww_4zY)
+* Morning meditation: basics 1 session 3, 10 mins
+* Learning: read multiple Vladimir Khorikov blog posts, 9.30-10:
+  * [Always-valid domain model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/)
+  * [Validation and DDD](https://enterprisecraftsmanship.com/posts/validation-and-ddd/)
+  * [How to strengthen requirements for pre-existing data](https://enterprisecraftsmanship.com/posts/strengthening-requirements-pre-existing-data/)
+  * [DRY vs DAMP in unit tests](https://enterprisecraftsmanship.com/posts/dry-damp-unit-tests/)
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 10.35-11.25
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Evening meditation: goodnight, 3 mins
+* In bed: 10.15
+* Reading: My Sister's Keeper, 8 pages
+* Lights out: 10.51
+* Net calories: 2837
 
 ### Template
 
