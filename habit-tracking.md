@@ -55,6 +55,7 @@ Across the day:
 | 2021-02-05 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-06 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-07 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-02-08 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -141,7 +142,7 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 
 ### 2021-02-07
 
-* Exercise: [0 min Morning Yoga Full Body Stretch](https://www.youtube.com/watch?v=BbWmmvPMSGI)
+* Exercise: [10 min Morning Yoga Full Body Stretch](https://www.youtube.com/watch?v=BbWmmvPMSGI)
 * Morning meditation: basics 1 session 5, 5 mins
 * Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 10.40-11
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
@@ -150,6 +151,18 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Reading: My Sister's Keeper, 11 pages
 * Lights out: 10.37
 * Net calories: 2574
+
+### 2021-02-08
+
+* Exercise: [7 days of sweat, day 4](https://www.youtube.com/watch?v=rHlb8yfdDzo)
+* Morning meditation: basics 1 session 6, 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.05-9.20
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Evening meditation: goodnight, 1 min
+* In bed: 10.15
+* Reading: My Sister's Keeper, 9 pages
+* Lights out: 10.30
+* Net calories: 2999
 
 ### Template
 
