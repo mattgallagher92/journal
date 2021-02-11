@@ -56,6 +56,7 @@ Across the day:
 | 2021-02-06 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-07 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-08 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-02-09 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -163,6 +164,18 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Reading: My Sister's Keeper, 9 pages
 * Lights out: 10.30
 * Net calories: 2999
+
+### 2021-02-09
+
+* Exercise: [15 minute fat burning HIIT workout](https://www.youtube.com/watch?v=TkaYafQ-XC4)
+* Morning meditation: basics 1 session 7, 5 mins
+* Programming: 9.05-9.20
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
+* Evening meditation: goodnight, 3 mins
+* In bed: 10.11
+* Reading: My Sister's Keeper, 4 pages
+* Lights out: 10.57
+* Net calories: 2309
 
 ### Template
 
