@@ -58,6 +58,7 @@ Across the day:
 | 2021-02-08 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-09 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-10 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
+| 2021-02-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -170,7 +171,7 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 
 * Exercise: [15 minute fat burning HIIT workout](https://www.youtube.com/watch?v=TkaYafQ-XC4)
 * Morning meditation: basics 1 session 7, 5 mins
-* Programming: 9.05-9.20
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.05-9.20
 * Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
 * Evening meditation: goodnight, 3 mins
 * In bed: 10.11
@@ -182,13 +183,25 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 
 * Exercise: [5 Minute Home Fat Burner](https://www.youtube.com/watch?v=xvn3HlSxYdM)
 * Morning meditation: basics 1 session 8, 5 mins
-* Programming: 9.45pm-10pm (distracted by the news in the morning)
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.45pm-10pm (distracted by the news in the morning)
 * Stretch: [Ace fitness "un-desk" stretches](https://www.acefitness.org/education-and-resources/lifestyle/blog/6554/)
 * Evening meditation: goodnight, 3 mins
 * In bed: 10.25
 * Reading: My Sister's Keeper, 10 pages
 * Lights out: 10.45
 * Net calories: 2303
+
+### 2021-02-11
+
+* Exercise: [7 days of sweat, day 5](https://www.youtube.com/watch?v=zwAkH0XFrgw)
+* Morning meditation: basics 1 session 9, 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.35-9.50 (meeting 9-9.30 - before I normally start work)
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Evening meditation: sleeping, 3 mins
+* In bed: 10.10
+* Reading: My Sister's Keeper, 8 pages
+* Lights out: 10.42
+* Net calories: 2447
 
 ### Template
 
