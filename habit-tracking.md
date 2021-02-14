@@ -59,6 +59,7 @@ Across the day:
 | 2021-02-09 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-10 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
 | 2021-02-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-02-12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -202,6 +203,18 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Reading: My Sister's Keeper, 8 pages
 * Lights out: 10.42
 * Net calories: 2447
+
+### 2021-02-12
+
+* Exercise: [7 days of sweat, day 6](https://www.youtube.com/watch?v=AesCuT1E_hw)
+* Morning meditation: basics 1 session 10, 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9-9.25
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Evening meditation: goodnight, 1 min
+* In bed: 10.15
+* Reading: My Sister's Keeper, 6 pages
+* Lights out: 10.37
+* Net calories: 2565
 
 ### Template
 
