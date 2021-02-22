@@ -65,6 +65,7 @@ Across the day:
 | 2021-02-15 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-16 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-17 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-02-18 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -269,7 +270,7 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Lights out: 10.40
 * Net calories: 2380
 
-### 2020-02-17
+### 2021-02-17
 
 * Exercise: [PE with Joe, 13 Jan](https://www.youtube.com/watch?v=hnOtrnh80hs)
 * Morning meditation: basics 2 session 4, 10 mins
@@ -280,6 +281,18 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Reading: My Sister's Keeper, 14 pages
 * Lights out: 10.50
 * Net calories: 2418
+
+### 2021-02-18
+
+* Exercise: [PE with Joe, 15 Jan](https://www.youtube.com/watch?v=l0k6XqfFEUo)
+* Morning meditation: basics 2 session 5, 15 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 8.55-9.20
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Evening meditation: goodnight, 1 min
+* In bed: 10.52
+* Reading: My Sister's Keeper, 3 pages
+* Lights out: 10.58
+* Net calories: 2702
 
 ### Template
 
