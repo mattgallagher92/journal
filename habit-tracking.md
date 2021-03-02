@@ -72,6 +72,7 @@ Across the day:
 | 2021-02-22 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-23 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
 | 2021-02-24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-02-25 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -371,6 +372,18 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Reading: Dark Places, 7 pages
 * Lights out: 10.30
 * Net calories: 2843
+
+### 2021-02-25
+
+* Exercise: [PE with Joe, 27 Jan](https://www.youtube.com/watch?v=slWSKoIP3vc)
+* Morning meditation: basics 3 session 2, 15 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.05-9.20
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Evening meditation: goodnight, 1 min
+* In bed: 10.15
+* Reading: Dark Places, 4 pages
+* Lights out: 10.45
+* Net calories: 2285
 
 ### Template
 
