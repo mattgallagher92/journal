@@ -75,6 +75,7 @@ Across the day:
 | 2021-02-25 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-26 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-02-27 | ✔ | | | | ✔ | | ✔ | ✔ | ✔ |
+| 2021-02-28 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Details
 
@@ -410,6 +411,18 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Reading: Dark Places, 5 pages
 * Lights out: 10.50
 * Net calories: 2841
+
+### 2021-02-28
+
+* Exercise: [10 min Morning Yoga Full Body Stretch](https://www.youtube.com/watch?v=hHIUhU-0AtQ)
+* Morning meditation: unguided, 5 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 10.15-10.45
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)]
+* Evening meditation: sleeping, 3 mins
+* In bed: 10.13
+* Reading: Dark Places, 7 pages
+* Lights out: 10.45
+* Net calories: 2758
 
 ### Template
 
