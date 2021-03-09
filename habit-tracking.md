@@ -49,6 +49,7 @@ Across the day:
 | Date | Exercise | Meditation | Programming or learning | Stretch | Wind down | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
 | ---- | -------- | --------------| ----------------------- | ------- | --------------| --------------- | ------- | ---------------- | --------------- |
 | 2021-03-01 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
+| 2021-03-02 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -61,6 +62,18 @@ Across the day:
 * Reading: Dark Places, 2 pages
 * Lights out: 10.42
 * Net calories: 2457
+
+### 2021-03-02
+
+* Exercise: [PE with Joe, 3 Feb](https://www.youtube.com/watch?v=Oghd99FTX4c)
+* Meditation: basics 3 session 5, 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.15-9.30
+* Stretch: [Ace fitness "un-desk" stretches](https://www.acefitness.org/education-and-resources/lifestyle/blog/6554/)
+* Wind down: sleeping, 3 mins
+* In bed: 10.14
+* Reading: Dark Places, 20 pages
+* Lights out: 10.47
+* Net calories: 2378
 
 ### Template
 
