@@ -48,6 +48,19 @@ Across the day:
 
 | Date | Exercise | Meditation | Programming or learning | Stretch | Wind down | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
 | ---- | -------- | --------------| ----------------------- | ------- | --------------| --------------- | ------- | ---------------- | --------------- |
+| 2021-03-01 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
+
+### 2021-03-01
+
+* Exercise: [PE with Joe, 1 Feb](https://www.youtube.com/watch?v=yOvqLXv88L4)
+* Meditation: basics 3 session 4, 10 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.10-9.25
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Wind down: goodnight, 3 mins
+* In bed: 10.25
+* Reading: Dark Places, 2 pages
+* Lights out: 10.42
+* Net calories: 2457
 
 ### Template
 
