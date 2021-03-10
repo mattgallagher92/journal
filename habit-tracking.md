@@ -54,6 +54,7 @@ Across the day:
 | 2021-03-04 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | | ✔ |
 | 2021-03-05 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
 | 2021-03-06 | ✔ | ✔ | | | ✔ | | ✔ | | ✔ |
+| 2021-03-07 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -126,6 +127,18 @@ Across the day:
 * Reading: Dark Places, 7 pages
 * Lights out: 11.17
 * Net calories: 2554
+
+### 2021-03-07
+
+* Exercise: [10 min Morning Yoga Full Body Stretch](https://www.youtube.com/watch?v=VrIvTyMMwJs)
+* Meditation: unguided, 5 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 10.10-10.45
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Wind down: goodnight, 1 min
+* In bed: 10.14
+* Reading: Dark Places, 6 pages
+* Lights out: 10.50
+* Net calories: 2450
 
 ### Template
 
