@@ -53,6 +53,7 @@ Across the day:
 | 2021-03-03 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-04 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | | ✔ |
 | 2021-03-05 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
+| 2021-03-06 | ✔ | ✔ | | | ✔ | | ✔ | | ✔ |
 
 ### 2021-03-01
 
@@ -113,6 +114,18 @@ Across the day:
 * Reading: Dark Places, 5 pages
 * Lights out: 10.25
 * Net calories: 3086
+
+### 2021-03-06
+
+* Exercise: [10 min Upper Body Morning Yoga](https://www.youtube.com/watch?v=dW6lS8HBFG0)
+* Meditation: basics 3 session 9, 15 mins
+* Programming: -
+* Stretch: -
+* Wind down: goodnight, 1 min
+* In bed: 11.07
+* Reading: Dark Places, 7 pages
+* Lights out: 11.17
+* Net calories: 2554
 
 ### Template
 
