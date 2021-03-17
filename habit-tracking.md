@@ -59,6 +59,7 @@ Across the day:
 | 2021-03-09 | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-03-12 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | |
 
 ### 2021-03-01
 
@@ -191,6 +192,18 @@ Across the day:
 * Reading: Dark Places, 27 pages
 * Lights out: 10.55
 * Net calories: 2742
+
+### 2021-03-12
+
+* Exercise: [PE with Joe, 22 Feb](https://www.youtube.com/watch?v=-yI7PU5Sxj0)
+* Meditation: unguided, 5 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.15-9.30
+* Stretch: -
+* Wind down: goodnight, 1 min
+* In bed: 10.45
+* Reading: Dark Places, 4 pages
+* Lights out: 11
+* Net calories: 4404
 
 ### Template
 
