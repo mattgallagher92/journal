@@ -60,6 +60,7 @@ Across the day:
 | 2021-03-10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-12 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | |
+| 2021-03-12 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -204,6 +205,20 @@ Across the day:
 * Reading: Dark Places, 4 pages
 * Lights out: 11
 * Net calories: 4404
+
+### 2021-03-13
+
+* Exercise: [10 min morning yoga for hips and upper back](https://www.youtube.com/watch?v=rBfdsyk8UK0)
+* Meditation: unguided, 5 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 1.05-1.20
+* Stretch: -
+* Wind down: sleeping, 3 mins
+* In bed: 10.23
+* Reading: Dark Places, 23 pages
+* Lights out: 10.59
+* Net calories: 2595
+
+Watched Bridge of Spies - very good.
 
 ### Template
 
