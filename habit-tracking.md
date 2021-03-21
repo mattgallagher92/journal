@@ -60,7 +60,8 @@ Across the day:
 | 2021-03-10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-12 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | |
-| 2021-03-12 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
+| 2021-03-13 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
+| 2021-03-14 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
 
 ### 2021-03-01
 
@@ -219,6 +220,18 @@ Across the day:
 * Net calories: 2595
 
 Watched Bridge of Spies - very good.
+
+### 2021-03-14
+
+* Exercise: 10 min morning yoga, full body
+* Meditation: unguided, 5 mins
+* Programming: 10.50-11.05
+* Stretch: Bupa
+* Wind down: goodnight, 3 mins
+* In bed: 10.09
+* Reading: Dark Places, 3 pages
+* Lights out: 11
+* Net calories: 3045
 
 ### Template
 
