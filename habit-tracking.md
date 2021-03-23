@@ -63,6 +63,7 @@ Across the day:
 | 2021-03-13 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
 | 2021-03-14 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
 | 2021-03-15 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-03-16 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -226,8 +227,8 @@ Watched Bridge of Spies - very good.
 
 * Exercise: 10 min morning yoga, full body
 * Meditation: unguided, 5 mins
-* Programming: 10.50-11.05
-* Stretch: Bupa
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 10.50-11.05
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
 * Wind down: goodnight, 3 mins
 * In bed: 10.09
 * Reading: Dark Places, 3 pages
@@ -238,13 +239,25 @@ Watched Bridge of Spies - very good.
 
 * Exercise: [PE with Joe, 24 Feb](https://www.youtube.com/watch?v=qoh7OnG2K_0)
 * Meditation: pro 1 session 4, 15 mins
-* Programming: 9.10-9.25
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.10-9.25
 * Stretch: [Ace fitness "un-desk" stretches](https://www.acefitness.org/education-and-resources/lifestyle/blog/6554/)
 * Wind down: goodnight, 1 min
 * In bed: 10.15
 * Reading: Dark Places, 9 pages
 * Lights out: 10.57
 * Net calories: 2272
+
+### 2021-03-16
+
+* Exercise: [PE with Joe, 3 Mar](https://www.youtube.com/watch?v=CFG5CPrzwXU&list=PLyCLoPd4VxBuS4UeyHMccVAjpWaNbGomt&index=2)
+* Meditation: Unguided, 5 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.10-9.25
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Wind down: goodnight, 1 min
+* In bed: 10.15
+* Reading: Dark Places, 15 pages
+* Lights out: 10.40
+* Net calories: 2785
 
 ### Template
 
