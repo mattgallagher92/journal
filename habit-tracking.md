@@ -64,6 +64,7 @@ Across the day:
 | 2021-03-14 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | |
 | 2021-03-15 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-16 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-03-17 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -249,7 +250,7 @@ Watched Bridge of Spies - very good.
 
 ### 2021-03-16
 
-* Exercise: [PE with Joe, 3 Mar](https://www.youtube.com/watch?v=CFG5CPrzwXU&list=PLyCLoPd4VxBuS4UeyHMccVAjpWaNbGomt&index=2)
+* Exercise: [PE with Joe, 3 Mar](https://www.youtube.com/watch?v=CFG5CPrzwXU)
 * Meditation: Unguided, 5 mins
 * Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.10-9.25
 * Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
@@ -258,6 +259,18 @@ Watched Bridge of Spies - very good.
 * Reading: Dark Places, 15 pages
 * Lights out: 10.40
 * Net calories: 2785
+
+### 2021-03-17
+
+* Exercise: [PE with Joe, 3 Mar](https://www.youtube.com/watch?v=WhnRJbSNyfM)
+* Meditation: pro 1 session 5, 15 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.10-9.25
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
+* Wind down: sleeping, 3 mins
+* In bed: 10.11
+* Reading: Dark Places, 9 pages
+* Lights out: 10.28
+* Net calories: 2700
 
 ### Template
 
