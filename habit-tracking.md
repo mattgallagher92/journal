@@ -47,7 +47,7 @@ Across the day:
 ## Summary
 
 | Date | Exercise | Meditation | Programming or learning | Stretch | Wind down | In bed by 10.15 | Reading | Lights out by 11 | < 3000 calories |
-| ---- | -------- | --------------| ----------------------- | ------- | --------------| --------------- | ------- | ---------------- | --------------- |
+| ---- | -------- | -----------| ----------------------- | ------- | ----------| --------------- | ------- | ---------------- | --------------- |
 | 2021-03-01 | ✔ | ✔ | ✔ | ✔ | ✔ | | ✔ | ✔ | ✔ |
 | 2021-03-02 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-03 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -65,6 +65,7 @@ Across the day:
 | 2021-03-15 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-16 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-17 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-03-18 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -271,6 +272,18 @@ Watched Bridge of Spies - very good.
 * Reading: Dark Places, 9 pages
 * Lights out: 10.28
 * Net calories: 2700
+
+### 2021-03-18
+
+* Exercise: [PE with Joe, 2 Jun - skipped abs finisher](https://www.youtube.com/watch?v=wpW2Mdyg-mI)
+* Meditation: pro 1 session 6, 15 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.10-9.25
+* Stretch: -
+* Wind down: goodnight, 1 min
+* In bed: 10.35
+* Reading: Dark Places, 1 pages
+* Lights out: 10.55
+* Net calories: 2676
 
 ### Template
 
