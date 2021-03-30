@@ -68,6 +68,7 @@ Across the day:
 | 2021-03-18 | ✔ | ✔ | ✔ | | ✔ | | ✔ | ✔ | ✔ |
 | 2021-03-19 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-20 | ✔ | ✔ | ✔ | | | | ✔ | | ✔ |
+| 2021-03-21 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -303,13 +304,25 @@ Watched Bridge of Spies - very good.
 
 * Exercise: [10 min intermediate morning yoga - flexibility flow](https://www.youtube.com/watch?v=gowP3UeSAqY)
 * Meditation: unguided, 5 mins
-* Programming: 9.55-10.40
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.55-10.40
 * Stretch: -
 * Wind down: -
 * In bed: 10.58
 * Reading: Dark Places, 4 pages
 * Lights out: 11.08
 * Net calories: 2981
+
+### 2021-03-21
+
+* Exercise: [10 min morning yoga for neck and shoulder relief](https://www.youtube.com/watch?v=oJBTw9tvh_s)
+* Meditation: unguided, 5 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 4.40-4.55
+* Stretch: [Back intelligence desk stretches](https://backintelligence.com/desk-stretches/)
+* Wind down: goodnight, 1 min
+* In bed: 10.11
+* Reading: Dark Places, 10 pages
+* Lights out: 10.31
+* Net calories: 2563
 
 ### Template
 
