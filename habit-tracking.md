@@ -78,6 +78,7 @@ Across the day:
 | 2021-03-28 | ✔ | | | | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-29 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-30 | ✔ | ✔ | | | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-03-31 | ✔ | ✔ | | | ✔ | | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -440,6 +441,18 @@ Watched Bridge of Spies - very good.
 * Reading: Dark places, 24 pages
 * Lights out: 11
 * Net calories: 2391
+
+### 2021-03-31
+
+* Exercise: [15 min beginner workout](https://www.youtube.com/watch?v=GB9oSPu0O0A)
+* Meditation: unguided, 5 mins
+* Programming: -
+* Stretch: -
+* Wind down: goodnight, 1 min
+* In bed: 10.20
+* Reading: Dark places, 17 pages (finished)
+* Lights out: 10.48
+* Net calories: 2239
 
 ### Template
 
