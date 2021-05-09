@@ -72,6 +72,7 @@ Across the day:
 | 2021-03-22 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-23 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | 2021-03-24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| 2021-03-25 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ### 2021-03-01
 
@@ -362,6 +363,18 @@ Watched Bridge of Spies - very good.
 * Reading: Dark Places, 10 pages
 * Lights out: 10.57
 * Net calories: 2649
+
+### 2021-03-25
+
+* Exercise: [PE with Joe, 9 Jun](https://www.youtube.com/watch?v=v4ShRREe26w)
+* Meditation: pro 2 session 1, 15 mins
+* Programming: [safe-consequences](https://github.com/mattgallagher92/safe-consequences), 9.10-9.25
+* Stretch: [Bupa desk stretches](https://www.bupa.co.uk/newsroom/ourviews/desk-stretches)
+* Wind down: goodnight, 1 min
+* In bed: 10.15
+* Reading: Dark Places, 6 pages
+* Lights out: 10.31
+* Net calories: 2858
 
 ### Template
 
