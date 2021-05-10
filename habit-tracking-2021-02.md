@@ -423,15 +423,3 @@ Started reading [Sophie's doctoral thesis](https://ora.ox.ac.uk/objects/uuid:cb9
 * Reading: Dark Places, 7 pages
 * Lights out: 10.45
 * Net calories: 2758
-
-### Template
-
-* Exercise:
-* Morning meditation:
-* Programming:
-* Stretch:
-* Evening meditation:
-* In bed:
-* Reading:
-* Lights out:
-* Net calories:
